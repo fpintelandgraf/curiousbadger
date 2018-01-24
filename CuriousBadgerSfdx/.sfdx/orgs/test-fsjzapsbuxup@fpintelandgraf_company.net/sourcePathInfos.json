@@ -1,0 +1,296 @@
+[
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516805011276,
+            "changeTime": 1516805011276,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516805011276,
+            "changeTime": 1516805011276,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1516811960115,
+            "changeTime": 1516811960115,
+            "contentHash": "b443158adc69cfd43a4521fdf9981515deab156c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1516810909876,
+            "changeTime": 1516810909876,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1516805024558,
+            "changeTime": 1516805024558,
+            "contentHash": "e232be9a20660ee05912cb3461f8723322e7ae96",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/objects/TestObjInScr__c/TestObjInScr__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/objects/TestObjInScr__c/TestObjInScr__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2149,
+            "modifiedTime": 1516811896709,
+            "changeTime": 1516811896709,
+            "contentHash": "c51a161e13ebbb07055e3d80c50cfecfb412e26f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/layouts/TestObjInScr__c-TestObjInScr-Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/layouts/TestObjInScr__c-TestObjInScr-Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1947,
+            "modifiedTime": 1516811896714,
+            "changeTime": 1516811896714,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17248,
+            "modifiedTime": 1516811896727,
+            "changeTime": 1516811896727,
+            "contentHash": "2d4c7508fb312ba659879406912ac70160f5ecf9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4212,
+            "modifiedTime": 1516811896731,
+            "changeTime": 1516811896731,
+            "contentHash": "4912d962c58455eaf6358740b715e9757076a44a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4550,
+            "modifiedTime": 1516811896733,
+            "changeTime": 1516811896733,
+            "contentHash": "5138882bcb27ce8cee68d22e6e5ec4c4602703d8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4212,
+            "modifiedTime": 1516811896738,
+            "changeTime": 1516811896738,
+            "contentHash": "4912d962c58455eaf6358740b715e9757076a44a",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/objects/TestObjInScr__c",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/objects/TestObjInScr__c",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516811896709,
+            "changeTime": 1516811896709,
+            "contentHash": "7c8fc74c0dc649ed038aa0724c295b3681ee1390",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516811896707,
+            "changeTime": 1516811896707,
+            "contentHash": "6aa50601d8f3c81097ed396f611795be522193c5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1516811896714,
+            "changeTime": 1516811896714,
+            "contentHash": "8e2349ab8e5569a05d17b027b899ff5191b18996",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1516811896738,
+            "changeTime": 1516811896738,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassinScratchOrg.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassinScratchOrg.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516811960116,
+            "changeTime": 1516811960116,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassinScratchOrg.cls",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassinScratchOrg.cls",
+            "isDirectory": false,
+            "size": 252,
+            "modifiedTime": 1516811974758,
+            "changeTime": 1516811974758,
+            "contentHash": "0a9cf7c3ee05e5cccc36c6e24329f26c8e4fef93",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1516812312562,
+            "changeTime": 1516812312562,
+            "contentHash": "2cbb336f3f51126dbeba5875c1adcf59fdfcca87"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassinScratchOrgTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassinScratchOrgTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1516812078242,
+            "changeTime": 1516812078242,
+            "contentHash": "cb0f9f01e3f3aa0ea1a9985ea3caf2b33d167a49",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassinScratchOrgTest.cls",
+        {
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassinScratchOrgTest.cls",
+            "isDirectory": false,
+            "size": 773,
+            "modifiedTime": 1516812202906,
+            "changeTime": 1516812202906,
+            "contentHash": "d06d8ce731aee5e3b43b2179b3e8cc61857613fa",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassInLocalTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassInLocalTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 222,
+            "modifiedTime": 1516812341747,
+            "changeTime": 1516812341747,
+            "contentHash": "1c07bcd88f3cdd6ac7a9d13d744519f0cd0097d8"
+        }
+    ],
+    [
+        "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassInLocalTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/fpintelandgraf/Google Drive/VisualSytudioWorkspace/CuriosBadger34399/CuriousBadgerSfdx/force-app/main/default/classes/ClassInLocalTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1516812312562,
+            "changeTime": 1516812312562,
+            "contentHash": "ecb064a62f1bf57fba3acbde2c735f5004372f3c"
+        }
+    ]
+]
