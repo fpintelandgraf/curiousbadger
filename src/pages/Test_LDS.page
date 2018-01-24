@@ -1,0 +1,112 @@
+<apex:page showHeader="false" standardStylesheets="false" sidebar="false" applyHtmlTag="false" applyBodyTag="false" docType="html-5.0">
+
+<html xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <title>Salesforce Lightning Design System Trailhead Module</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Import the Design System style sheet -->
+  <apex:slds /> 
+</head>
+<body>
+
+  <!-- REQUIRED SLDS WRAPPER -->
+  <div class="slds-scope">
+
+    <!-- MASTHEAD -->
+    <p class="slds-text-heading--label slds-m-bottom--small">
+      Test Lightning Design System 
+    </p>
+    <!-- / MASTHEAD -->
+    
+    <!-- HEADING AREA -->
+<div class="slds-media slds-no-space slds-grow">
+  <div class="slds-media__figure">
+    <span class="slds-avatar slds-avatar--medium">
+      <img src="{!URLFOR($Asset.SLDS, 'assets/images/avatar1.jpg')}" alt="" />
+    </span>
+  </div>
+  <div class="slds-media__body">
+    <p class="slds-text-title--caps slds-line-height--reset">Accounts</p>
+    <h1 class="slds-page-header__title slds-m-right--small slds-align-middle slds-truncate" title="My Accounts">My Accounts</h1>
+  </div>
+</div>
+
+<div class="slds-media slds-no-space slds-grow">
+  <div class="slds-media__figure">
+    <span class="slds-avatar slds-avatar--medium">
+      <img src="{!URLFOR($Asset.SLDS, 'assets/images/avatar2.jpg')}" alt="" />
+    </span>
+  </div>
+  <div class="slds-media__body">
+    <p class="slds-text-title--caps slds-line-height--reset">Accounts</p>
+    <h1 class="slds-page-header__title slds-m-right--small slds-align-middle slds-truncate" title="My Accounts">My Accounts</h1>
+  </div>
+</div>
+
+<div class="slds-media slds-no-space slds-grow">
+  <div class="slds-media__figure">
+    <span class="slds-avatar slds-avatar--medium">
+      <img src="{!URLFOR($Asset.SLDS, 'assets/images/avatar1.jpg')}" alt="" />
+    </span>
+  </div>
+  <div class="slds-media__body">
+    <p class="slds-text-title--caps slds-line-height--reset">Bots</p>
+    <h1 class="slds-page-header__title slds-m-right--small slds-align-middle slds-truncate" title="Bots">Bots</h1>
+  </div>
+</div>
+
+
+<!-- / HEADING AREA -->
+
+
+    <!-- PRIMARY CONTENT WRAPPER -->
+    <div class="myapp">
+
+      <!-- SECTION - BADGE COMPONENTS -->
+      <section aria-labelledby="badges">
+        <h2 id="badges" class="slds-text-heading--large slds-m-vertical--large">Badges</h2>
+        <div>
+          <span class="slds-badge">Badge</span>
+          <span class="slds-badge slds-theme--inverse">Badge</span>
+        </div>
+      </section>
+      <!-- / SECTION - BADGE COMPONENTS -->
+
+<table class="slds-table slds-table--bordered slds-table--cell-buffer slds-no-row-hover">
+  <thead>
+    <tr class="slds-text-heading--label">
+      <th scope="col">Account ID</th>
+      <th scope="col">Account name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">123</th>
+      <td>Account 1</td>
+    </tr>
+    <tr>
+      <th scope="row">456</th>
+      <td>Account 2</td>
+    </tr>
+  </tbody>
+</table>
+
+<span class="slds-avatar slds-avatar--x-small">
+  <img src="/assets/images/avatar1.jpg" alt="meaningful text" />
+  
+  TEst
+</span>
+
+
+    </div>
+    <!-- / PRIMARY CONTENT WRAPPER -->
+
+  </div>
+  <!-- / REQUIRED SLDS WRAPPER -->
+
+</body>
+</html>
+</apex:page>

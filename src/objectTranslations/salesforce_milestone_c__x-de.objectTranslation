@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>false</plural>
+        <value>Milestone</value>
+    </caseValues>
+    <caseValues>
+        <caseType>Nominative</caseType>
+        <plural>true</plural>
+        <value>Milestones</value>
+    </caseValues>
+    <fields>
+        <label><!-- activity__c --></label>
+        <name>activity_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- createddate --></label>
+        <name>createddate__c</name>
+    </fields>
+    <fields>
+        <label><!-- end_date__c --></label>
+        <name>end_date_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- _hc_err --></label>
+        <name>hc_err__c</name>
+    </fields>
+    <fields>
+        <label><!-- _hc_lastop --></label>
+        <name>hc_lastop__c</name>
+    </fields>
+    <fields>
+        <label><!-- id --></label>
+        <name>id__c</name>
+    </fields>
+    <fields>
+        <label><!-- isdeleted --></label>
+        <name>isdeleted__c</name>
+    </fields>
+    <fields>
+        <label><!-- name --></label>
+        <name>name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Project id --></label>
+        <name>project_id_c__c</name>
+        <relationshipLabel><!-- Milestones --></relationshipLabel>
+    </fields>
+    <fields>
+        <label><!-- sfid --></label>
+        <name>sfid__c</name>
+    </fields>
+    <fields>
+        <label><!-- status__c --></label>
+        <name>status_c__c</name>
+    </fields>
+    <fields>
+        <label><!-- systemmodstamp --></label>
+        <name>systemmodstamp__c</name>
+    </fields>
+    <gender>Neuter</gender>
+</CustomObjectTranslation>

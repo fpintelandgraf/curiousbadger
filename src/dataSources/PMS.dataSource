@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExternalDataSource xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customConfiguration>{&quot;inlineCountEnabled&quot;:&quot;true&quot;,&quot;requestCompression&quot;:&quot;false&quot;,&quot;pagination&quot;:&quot;CLIENT&quot;,&quot;noIdMapping&quot;:&quot;false&quot;,&quot;format&quot;:&quot;JSON&quot;,&quot;compatibility&quot;:&quot;DEFAULT&quot;,&quot;timeout&quot;:&quot;120&quot;,&quot;searchEnabled&quot;:&quot;true&quot;}</customConfiguration>
+    <endpoint>https://odata-eu.heroku.com/odata/v4/46c2a0c99f9248539b156af60d86c991/</endpoint>
+    <isWritable>false</isWritable>
+    <label>PMS</label>
+    <principalType>NamedUser</principalType>
+    <protocol>Password</protocol>
+    <type>OData4</type>
+    <username>3709269692ef4bd7b799d542b958b113</username>
+</ExternalDataSource>
