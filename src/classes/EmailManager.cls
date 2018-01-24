@@ -1,5 +1,6 @@
 public class EmailManager {
 
+    // Test Change
     // Public method
     public static void sendMail(String address, String subject, String body) {
         // Create an email message object
